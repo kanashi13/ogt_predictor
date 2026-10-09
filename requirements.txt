@@ -1,0 +1,10 @@
+﻿torch>=2.5
+transformers==5.15.1
+scikit-learn==1.8.0
+xgboost==3.4.1
+joblib>=1.4
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.9
+scipy>=1.13
+tqdm>=4.66

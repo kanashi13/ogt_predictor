@@ -1,0 +1,14 @@
+﻿data/
+final_model/
+models/
+models--*/
+archive/
+tree.txt
+*.npy
+*.pt
+*.safetensors
+*.joblib
+*.sql
+*.tsv
+*.zip
+__pycache__/
