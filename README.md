@@ -181,3 +181,8 @@ If you use this work, please also cite the data source:
 
 and BRENDA (doi:10.1093/nar/gky1048).
 The protein language model is ESM-2 from Meta AI (`facebook/esm2_t33_650M_UR50D`).
+
+## 10. License
+
+The code is released under the MIT License (see `LICENSE`).
+The input data are distributed under CC BY 4.0 by their authors (see section 3)
