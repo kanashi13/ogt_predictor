@@ -93,8 +93,8 @@ Other findings (all tables and figures are in [`results/`](results/)):
 ## 5. Installation
 
 ```bash
-git clone <this-repository-url>
-cd <repository-folder>
+git clone https://github.com/kanashi13/ogt_predictor
+cd ogt_predictor
 pip install -r requirements.txt
 ```
 
